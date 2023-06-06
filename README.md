@@ -22,3 +22,5 @@
 ## *Day 3*
 
 8. [Pair Sum](https://www.codingninjas.com/codestudio/problems/pair-sum_8230699?challengeSlug=striver-sde-challenge)
+
+9. [Longest Subarray Zero Sum](https://www.codingninjas.com/codestudio/problems/longest-subarray-zero-sum_8230747?challengeSlug=striver-sde-challenge)
