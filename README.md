@@ -36,5 +36,7 @@
 13. [Palindrome Linked List](https://www.codingninjas.com/codestudio/problems/palindrome-linked-list_8230717?challengeSlug=striver-sde-challenge)
 
 ### *Day 5*
+
 ### *Day 6*
+
 14. [Remove Duplicates from Sorted Array](https://www.codingninjas.com/codestudio/problems/remove-duplicates-from-sorted-array_8230811?challengeSlug=striver-sde-challenge)
