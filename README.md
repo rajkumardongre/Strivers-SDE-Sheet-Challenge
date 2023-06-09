@@ -24,3 +24,17 @@
 8. [Pair Sum](https://www.codingninjas.com/codestudio/problems/pair-sum_8230699?challengeSlug=striver-sde-challenge)
 
 9. [Longest Subarray Zero Sum](https://www.codingninjas.com/codestudio/problems/longest-subarray-zero-sum_8230747?challengeSlug=striver-sde-challenge)
+
+## *Day 4*
+
+10. [Middle Of Linked List](https://www.codingninjas.com/codestudio/problems/middle-of-linked-list_8230764?challengeSlug=striver-sde-challenge)
+
+11. [Delete Node In A Linked List](https://www.codingninjas.com/codestudio/problems/delete-node-in-a-linked-list_8230813?challengeSlug=striver-sde-challenge)
+
+12. [Intersection of Two Linked Lists](https://www.codingninjas.com/codestudio/problems/intersection-of-two-linked-lists_8230688?challengeSlug=striver-sde-challenge)
+
+13. [Palindrome Linked List](https://www.codingninjas.com/codestudio/problems/palindrome-linked-list_8230717?challengeSlug=striver-sde-challenge)
+
+### *Day 5*
+### *Day 6*
+14. [Remove Duplicates from Sorted Array](https://www.codingninjas.com/codestudio/problems/remove-duplicates-from-sorted-array_8230811?challengeSlug=striver-sde-challenge)
