@@ -40,3 +40,5 @@
 ## *Day 6*
 
 14. [Remove Duplicates from Sorted Array](https://www.codingninjas.com/codestudio/problems/remove-duplicates-from-sorted-array_8230811?challengeSlug=striver-sde-challenge)
+
+15. [Find Minimum Number Of Coins](https://www.codingninjas.com/codestudio/problems/find-minimum-number-of-coins_8230766?challengeSlug=striver-sde-challenge)
