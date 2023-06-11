@@ -48,3 +48,7 @@
 16. [Flatten A Linked List](https://www.codingninjas.com/codestudio/problems/flatten-a-linked-list_8230827?challengeSlug=striver-sde-challenge)
 
 17. [Maximum Subarray Sum](https://www.codingninjas.com/codestudio/problems/maximum-subarray-sum_8230694?challengeSlug=striver-sde-challenge)
+
+## *Day 8*
+
+18. [Valid Parentheses](https://www.codingninjas.com/codestudio/problems/valid-parentheses_8230714?challengeSlug=striver-sde-challenge)
