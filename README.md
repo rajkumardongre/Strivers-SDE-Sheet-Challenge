@@ -62,3 +62,46 @@
 ## *Day 9*
 
 22. [Best Time to Buy and Sell Stock](https://www.codingninjas.com/codestudio/problems/best-time-to-buy-and-sell-stock_8230746?challengeSlug=striver-sde-challenge)
+
+# *Day 10*
+
+23. [Valid Parentheses](https://www.codingninjas.com/studio/problems/valid-parentheses_8230714?challengeSlug=striver-sde-challenge)
+
+24. [Palindrome Linked List](https://www.codingninjas.com/studio/problems/palindrome-linked-list_8230717?challengeSlug=striver-sde-challenge)
+
+# *Day 11*
+
+25. [Reverse Linked List](https://www.codingninjas.com/studio/problems/reverse-linked-list_8230724?challengeSlug=striver-sde-challenge)
+
+26. [Merge Two Sorted Linked Lists](https://www.codingninjas.com/studio/problems/merge-two-sorted-linked-lists_8230729?challengeSlug=striver-sde-challenge)
+
+# *Day 12*
+
+27. [Missing and repeating numbers](https://www.codingninjas.com/studio/problems/missing-and-repeating-numbers_8230733?challengeSlug=striver-sde-challenge)
+
+# *Day 13*
+
+28. [Day 6 : Majority element](https://www.codingninjas.com/studio/problems/day-6-majority-element_8230731?challengeSlug=striver-sde-challenge)
+
+29. [Majority Element - II](https://www.codingninjas.com/studio/problems/majority-element-ii_8230738?challengeSlug=striver-sde-challenge)
+
+# *Day 14*
+
+30. [Next Permutation](https://www.codingninjas.com/studio/problems/next-permutation_8230741?challengeSlug=striver-sde-challenge)
+
+31. [Count Inversions](codingninjas.com/studio/problems/count-inversions_8230680?challengeSlug=striver-sde-challenge)
+
+32. [Intersection of Two Linked Lists](https://www.codingninjas.com/studio/problems/intersection-of-two-linked-lists_8230688?challengeSlug=striver-sde-challenge)
+
+33. [Maximum Subarray Sum](https://www.codingninjas.com/studio/problems/maximum-subarray-sum_8230694?challengeSlug=striver-sde-challenge)
+
+# *Day 15*
+
+34. [Sort 0 1 2](https://www.codingninjas.com/studio/problems/sort-0-1-2_8230695?challengeSlug=striver-sde-challenge)
+
+35. [Pair Sum](https://www.codingninjas.com/studio/problems/pair-sum_8230699?challengeSlug=striver-sde-challenge)
+
+# *Day 16*
+
+36. [Merge Intervals](https://www.codingninjas.com/studio/problems/merge-intervals_8230700?challengeSlug=striver-sde-challenge)
+
